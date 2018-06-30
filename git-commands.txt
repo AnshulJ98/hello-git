@@ -1,0 +1,9 @@
+git init
+git clone /path/to/repository
+git clone username@host:/path/to/directory
+git add<filebame>
+git add *
+git commit -m "commit message"
+git commit -a
+git push origin master
+git status
