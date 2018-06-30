@@ -7,3 +7,4 @@ git commit -m "commit message"
 git commit -a
 git push origin master
 git status
+git add
